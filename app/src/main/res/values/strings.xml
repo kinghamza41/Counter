@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DevelopingCounter</string>
+
+    <string name="counter">Your Counter is: </string>
+
+    <string name="counterbtn">Count</string>
+
+    <string name="resetbtn">Reset</string>
+</resources>
